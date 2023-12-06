@@ -69,43 +69,43 @@ Covariant would need to combine their technology with Autonomous Mobile Robots (
 * Why are these technologies appropriate for your solution?
 By combining the best of what many AMRs already have with their mobility and what Covariant does with their Covariant Brain, it could certainly prove to be very beneficial. It could provide a scalable and flexible solution where the new product could be utilized in an existing warehouse, without having a large outlay of capital to retrofit it. 
 
-## Recommendations
+## References
 
 (1) Covariant | Powering the future of automation, today. 
-    https://covariant.ai/.
+*     https://covariant.ai/.
 
 (2) Covariant | Introducing Covariant One: Performance guaranteed and delivered. 
-    https://covariant.ai/resources/introducing-covariant-one-performance-guaranteed-and-delivered/.
+*     https://covariant.ai/resources/introducing-covariant-one-performance-guaranteed-and-delivered/.
 
 (3) Tech Crunch+ | Robotic AI firm Covariant raises another $80 million. 
-    https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/.
+*     https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/.
 
 (4) Business Wire | Covariant Adds $75M in Series C Funds to Meet Customer  
-    https://www.businesswire.com/news/home/20230404005494/en/Covariant-Adds-75M-in-Series-C-Funds-to-Meet-Customer-Demand-for-Scaled-AI-Robotics-Deployments
+*     https://www.businesswire.com/news/home/20230404005494/en/Covariant-Adds-75M-in-Series-C-Funds-to-Meet-Customer-Demand-for-Scaled-AI-Robotics-Deployments
 
 (5) Covariant | GXO Solves Apparel Picking Challenges
-    https://covariant.ai/resources/gxo-solves-apparel-picking-challenges-with-the-knapp-pick-it-easy-robot-powered-by-the-covariant/
+*     https://covariant.ai/resources/gxo-solves-apparel-picking-challenges-with-the-knapp-pick-it-easy-robot-powered-by-the-covariant/
 
 (6) IEEE Spectrum | Covariant AI Gigantic Neural Network
-    https://spectrum.ieee.org/covariant-ai-gigantic-neural-network-to-automate-warehouse-picking
+*     https://spectrum.ieee.org/covariant-ai-gigantic-neural-network-to-automate-warehouse-picking
 
 (7) Forbes | Has AI Robotics Revolution Met Its ChapGPT Moment
-    https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/?sh=54f08aef723c
+*     https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/?sh=54f08aef723c
 
 (8) Tech Crunch+ | Covariant’s Robotic Picking AI Nabs Another $75M
-    https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/
+*     https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/
 
 (9) Covariant | Customer Impact. 
-    https://covariant.ai/customer-impact/.
+*     https://covariant.ai/customer-impact/.
 
 (10) Logistics Management | 2021 Warhouse/ DC Operations Survey: Automation as a Disruption Response
-     https://www.logisticsmgmt.com/article/2021_warehouse_dc_operations_survey_automation_as_a_disruption_response
+*     https://www.logisticsmgmt.com/article/2021_warehouse_dc_operations_survey_automation_as_a_disruption_response
 
 (11) The Robot Report | Covariant raises $80M to scale ‘universal AI’ for robotic manipulation
-     https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/
+*     https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/
 
 (12) Robotics 247 | Covariant Picks Up $75M in Series C to Continue to Deploy Its AI-Powered Robotic Picking System
-     https://www.robotics247.com/article/covariant_picks_up_75m_in_series_c_to_continue_to_deploy_its_ai_powered_robotic_picking_system
+*     https://www.robotics247.com/article/covariant_picks_up_75m_in_series_c_to_continue_to_deploy_its_ai_powered_robotic_picking_system
 
 (13) Oracle Netsuite | What is Warehouse Robotics? The Ultimate Guide for 2022
-     https://www.netsuite.com/portal/resource/articles/ecommerce/warehouse-robotics.shtml
+*     https://www.netsuite.com/portal/resource/articles/ecommerce/warehouse-robotics.shtml
